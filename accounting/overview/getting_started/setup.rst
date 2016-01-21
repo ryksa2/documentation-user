@@ -34,3 +34,4 @@ The implementation guide will help you through the following steps:
 Once a step is done, you can click on the "Mark as Done" button, in the
 bottom of the screen. That way, you can track the progress of your
 overall configuration of Odoo.
+add rem
